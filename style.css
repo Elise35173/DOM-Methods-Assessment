@@ -1,0 +1,30 @@
+body {
+    background-color: hotpink;
+}
+
+.image {
+    height: 350px;
+    width: 525px;
+}
+
+button {
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: aquamarine;
+}
+
+input {
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: aquamarine;
+    color: purple;
+}
+
+a {
+    color: purple;
+    font-size: 20px;
+}
